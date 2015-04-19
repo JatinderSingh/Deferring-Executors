@@ -17,7 +17,7 @@
  * License along with this library; If not, see <http://www.gnu.org/licenses/>.
  * 
  */
-package singh.jatinder.executor;
+package io.maelstorm.executor;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
